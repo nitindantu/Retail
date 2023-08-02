@@ -1,2 +1,10 @@
 ![image](https://github.com/nitindantu/Retail/assets/41870240/2302a229-f75a-48eb-81d6-0c769674076b)
 
+
+
+![image](https://github.com/nitindantu/Retail/assets/41870240/9827ce8d-1a7f-47bf-a4c5-a4296ff600a5)
+
+   
+
+https://github.com/nitindantu/Retail/assets/41870240/b33d773d-36ae-4093-a41c-da7b9a6cd50b
+
