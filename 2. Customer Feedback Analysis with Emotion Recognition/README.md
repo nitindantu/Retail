@@ -10,5 +10,5 @@
 ![image](https://github.com/nitindantu/Retail/assets/41870240/9d7cce9d-7b31-4691-b33e-c0b15408ed78)
 
 
-
+https://github.com/nitindantu/Retail/assets/41870240/e8403e49-980f-4e39-891a-d59c030a212d
 
