@@ -13,3 +13,5 @@ We observe the recency-vs-monetary and recency-vs-frequency charts, a clear cont
 
 So, the takeaway from the analysis can be that we need to think about how we can continue satisfying our Platinum customers to continue shopping with us. And we also might have to think about how we can influence our Gold customers to increase engagement with us. And it might be too late to pursue those Silver users.
 
+Dataset: https://www.kaggle.com/datasets/vijayuv/onlineretail
+
