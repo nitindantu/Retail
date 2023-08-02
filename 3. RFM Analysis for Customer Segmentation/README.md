@@ -2,9 +2,10 @@
 RFM segmentation model is very insightful and a powerful tool to understand your customer.
 We first compute our customer’s individual recency, frequency, and monetary value, then their separate r_score, f_score, and m_score, and finally an aggregated rfm-score. We also keep the elementwise rfm-scores.
 Now, depending on the business requirements we can divide the customer base in whichever way we want. However, for simplicity, we are going to divide our customer base into 3 segments based on the aggregated rfm-score and assign a loyalty badge (Platinum, Gold, Silver):
-Segment 1 (Platinum): first 33%
-Segment 2 (Gold): 33% — 66%
-Segment 3 (Silver): last 33%
+
+- Segment 1 (Platinum): first 33%
+- Segment 2 (Gold): 33% — 66%
+- Segment 3 (Silver): last 33%
 
 ![image](https://github.com/nitindantu/Retail/assets/41870240/f1e7cf26-85f3-4d2b-b9f5-35902cb7a12c)
 
