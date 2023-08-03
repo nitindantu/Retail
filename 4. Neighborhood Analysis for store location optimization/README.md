@@ -28,13 +28,6 @@ low-cost supermarket. We apply machine learning techniques such as k-means clust
 different clusters so that we could focus in only one type of neighbourhood (residential). Further data
 such as population and market venues will be used to reduce the number of potential areas.
 
-
-The following scatterplot represents the residential neighbourhoods considering the ratio people —
-markets and the household income. The highlighted quadrant covers neighbourhoods with a
-household income below average (since we are targeting working class areas) and a ratio of people
-per market above average, making these neighbourhoods good candidates for the location of the
-new store.
-
 Since initially we don’t know how many different types of neighbourhood we can find in Madrid, we
 are using the elbow method to obtain the optimal number (k) of clusters.
 Although the figure below shows 3 as the optimal number of clusters, we are using 5 (the second
@@ -55,6 +48,11 @@ the neighbourhoods of each cluster. Finally we come with the following represent
 
 
 # Result
+The following scatterplot represents the residential neighbourhoods considering the ratio people —
+markets and the household income. The highlighted quadrant covers neighbourhoods with a
+household income below average (since we are targeting working class areas) and a ratio of people
+per market above average, making these neighbourhoods good candidates for the location of the
+new store.
 
 ![image](https://github.com/nitindantu/Retail/assets/41870240/fae6688f-f32f-449a-8837-df535e650ad1)
 
