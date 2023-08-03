@@ -1,8 +1,11 @@
+# Description
 In this project, we tackle the problem of a low-cost supermarket chain trying to decide in which area of Madrid (Spain) they should open their new store in order to maximise the revenue. It is important to note that the city of Madrid consists of 21 districts and 131 neighbourhoods with great differences between them.
 
 ![image](https://github.com/nitindantu/Retail/assets/41870240/2fa7aae7-2c78-44a3-b48e-ce9cbeb0e6e6)
 
-The neighbourhoods of Madrid were analysed with the purpose of finding the ideal location for a new
+# Methodology
+
+The neighbourhoods of Madrid are analysed with the purpose of finding the ideal location for a new
 low-cost supermarket. We apply machine learning techniques such as k-means clustering to find
 different clusters so that we could focus in only one type of neighbourhood (residential). Further data
 such as population and market venues will be used to reduce the number of potential areas.
