@@ -35,6 +35,22 @@ household income below average (since we are targeting working class areas) and 
 per market above average, making these neighbourhoods good candidates for the location of the
 new store.
 
+Since initially we don’t know how many different types of neighbourhood we can find in Madrid, we
+are using the elbow method to obtain the optimal number (k) of clusters.
+Although the figure below shows 3 as the optimal number of clusters, we are using 5 (the second
+best k) since this way we can break down more the number of neighbourhoods that we are going to
+analyse against the census data.
+
+![image](https://github.com/nitindantu/Retail/assets/41870240/2d058ddf-15f4-4a42-87ed-ea6c4d9995fb)
+
+With K-means algorithm we can group the 131 neighbourhoods into 5 clusters depending on the
+most popular venues in those areas. Below we can visualise what are the most common venues and
+the cluster (from 0 to 4) that has been assigned to each area.
+
+![image](https://github.com/nitindantu/Retail/assets/41870240/7d669c62-9d7f-4f69-bb3c-9ca7f78c203f)
+
+
+
 # Result
 
 ![image](https://github.com/nitindantu/Retail/assets/41870240/fae6688f-f32f-449a-8837-df535e650ad1)
