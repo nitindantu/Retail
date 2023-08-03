@@ -49,6 +49,9 @@ the cluster (from 0 to 4) that has been assigned to each area.
 
 ![image](https://github.com/nitindantu/Retail/assets/41870240/7d669c62-9d7f-4f69-bb3c-9ca7f78c203f)
 
+In order to name the different clusters it is necessary to explore the most representative venues in
+the neighbourhoods of each cluster. Finally we come with the following representation:
+![image](https://github.com/nitindantu/Retail/assets/41870240/580992d0-907e-43f7-bd33-cae4718c62cd)
 
 
 # Result
